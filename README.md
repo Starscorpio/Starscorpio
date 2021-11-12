@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### About me
 • Security engineer<br/>
 • Love to tear apart and dig into applications<br/>
-• [<img align="center" alt="linked-in" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/blog.png" />](https://www.linkedin.com/in/vedanttare) I blog about new topics, tools and machines that I have pwned
+• <img width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/blog.png" alt="Material Bread logo"> I blog about new topics, tools and machines that I have pwned
 
 
 ### Let's connect
