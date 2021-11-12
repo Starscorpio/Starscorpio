@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm a security engineer who loves to find bugs!
+
+### Let's connect
+[<img align="left" alt="linked-in" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/linkedin.svg" />](https://www.linkedin.com/in/vedanttare/)
