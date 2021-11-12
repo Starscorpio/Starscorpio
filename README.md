@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### About me
-• <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/cloud-computing.png" alt="Material Bread logo"> Security engineer<br/>
+• <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/freelance.png" alt="Material Bread logo"> Security engineer<br/>
 • <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/drill.png" alt="Material Bread logo"> Love to tear apart and dig into applications<br/>
 • <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/blog.png" alt="Material Bread logo"> I blog about new topics, tools and machines that I have pwned
 
