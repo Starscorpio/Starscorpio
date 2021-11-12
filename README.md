@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 ### Let's connect
-[<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vedanttare) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/starscorp1o) [<img width="120" align="left" alt="twitter" src="https://img.shields.io/badge/-Blog-yellow" />](https://vedanttare.com/) [<img width="120" align="left" alt="twitter" src="https://app.hackthebox.com/images/logos/logo-htb.svg" />](https://app.hackthebox.com/profile/overview)
+[<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vedanttare) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/starscorp1o) [<img width="50" align="left" alt="twitter" src="https://img.shields.io/badge/-Blog-yellow" />](https://vedanttare.com/) [<img width="120" align="left" alt="twitter" src="https://app.hackthebox.com/images/logos/logo-htb.svg" />](https://app.hackthebox.com/profile/overview)
 
 
