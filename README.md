@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 ### About me
-• Security engineer
-• Love to dig into applications
+• Security engineer<br/>
+• Love to dig into applications<br/>
 • I blog about new topics, tools and machines that I have pwned
 
 
