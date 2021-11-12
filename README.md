@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 ### About me
 • Security engineer<br/>
 • Love to tear apart and dig into applications<br/>
-• I blog about new topics, tools and machines that I have pwned
+• [<img align="center" alt="linked-in" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/blog.png
+" />](https://www.linkedin.com/in/vedanttare) I blog about new topics, tools and machines that I have pwned
 
 
 ### Let's connect
