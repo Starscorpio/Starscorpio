@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 <p align="center" style="font-weight:bold"> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" alt="Material Bread logo"> Vedant | <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/laptop%20(2).png" alt="Material Bread logo"> Security Engineer |  🌏 India</p>
 
 
+### About me
+• Security engineer
+• Love to dig into applications
+• I blog about new topics, tools and machines that I have pwned
 
-#### Let's connect
+
+### Let's connect
 [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vedanttare) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/starscorp1o) [<img align="left" alt="twitter" src="https://img.shields.io/badge/-Blog-yellow" />](https://vedanttare.com/)
 
