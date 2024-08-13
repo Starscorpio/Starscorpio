@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center" style="font-weight:bold"> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" alt="Material Bread logo"> <b>Vedant |</b> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/laptop%20(2).png" alt="Material Bread logo"> <b>Security Engineer |</b>  🌏 <b>India</b></p>
+<p align="center" style="font-weight:bold"> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" alt="Material Bread logo"> <b>Vedant |</b> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/laptop%20(2).png" alt="Material Bread logo"> <b>Security Enthusiast |</b>  🌏 <b>Canada</b></p>
 
 
 ### About me
 ----
-• <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/freelance.png" alt="Material Bread logo"> Security engineer.<br/>
+• <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/freelance.png" alt="Material Bread logo"> Security Enthusiast.<br/>
 • <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/drill.png" alt="Material Bread logo"> Love to tear apart and dig into applications.<br/>
-• <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/blog.png" alt="Material Bread logo"> I blog about new topics, tools and machines/boxes that I have pwned.
+• <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/blog.png" alt="Material Bread logo"> I research about new topics, tools and machines/boxes that I have pwned.
 
 
 ### Let's connect
