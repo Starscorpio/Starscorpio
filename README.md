@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center" style="font-weight:bold"> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" alt="Material Bread logo"> <b>Vedant |</b> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/laptop%20(2).png" alt="Material Bread logo"> <b>Security Enthusiast |</b>  🌏 <b>Canada</b></p>
+<p align="center" style="font-weight:bold"> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" alt="Material Bread logo"> <b>Vedant | 💻 <b>Security Enthusiast |</b>  🌏 <b>Canada</b></p>
 
 
 ### About me
