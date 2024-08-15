@@ -1,4 +1,4 @@
-<p style="font-size:800em;" align="center"><b>Hello everyone!</b> 👋
+<p style="font-size:18px;" align="center"><b>Hello everyone!</b> 👋
 
 ----
 <!--
