@@ -1,9 +1,5 @@
 <p style="font-size:18px;" align="center"><b>Hello everyone!</b> 👋
 
-# Hello Everyone! 👋
-
-<h2 align="center;">Hello Everyone!</h2> 👋
-
 <!--
 **Starscorpio/Starscorpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
