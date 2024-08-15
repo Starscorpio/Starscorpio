@@ -1,5 +1,4 @@
 <p style="font-size:18px;" align="center"><b>Hello everyone!</b> 👋
-## Hello Everyone!
 ----
 <!--
 **Starscorpio/Starscorpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center" style="font-weight:bold"> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" alt="Material Bread logo"> <b>Vedant | 💻 <b>Security Enthusiast |</b>  🌏 <b>Canada</b></p>
 
+## Hello
 
 ### About me
 ----
