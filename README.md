@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <p align="center" style="font-weight:bold"> <img align="center" width="30" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" alt="Material Bread logo"> <b>Vedant | 💻 <b>Security Enthusiast |</b>  🌏 <b>Canada</b></p>
 
-## Hello
-
 ### About me
 ----
 • <img width="20" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/freelance.png" alt="Material Bread logo"> Security Enthusiast.<br/>
