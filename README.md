@@ -1,4 +1,4 @@
-<p style="font-size:25px;" align="center"><b>Hello everyone!</b> 👋
+<p style="font-size:25 px;" align="center"><b>Hello everyone!</b> 👋
 
 <!--
 **Starscorpio/Starscorpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
